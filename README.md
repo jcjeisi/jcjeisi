@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jcjeisi
+- 👀 I’m interested in IT engineer;
+- 🌱 I’m currently learning C#, HTML, ethical hacking;
